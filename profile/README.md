@@ -12,4 +12,4 @@ Please send an application email to abandoft@gmail.com.
 If you feel that our open source software is helpful to you, please sponsor us.  
 
 ## Contact
-Website: https://godothub.github.io &nbsp;&nbsp;&nbsp;Email: abandoft@gmail.com  
+Website: https://godothub.com &nbsp;&nbsp;&nbsp;Email: abandoft@gmail.com  
