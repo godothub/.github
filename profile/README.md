@@ -10,5 +10,5 @@ If you feel that our open source software is helpful to you, please [sponsor us]
 
 ## Contact
 
-Email: abandoft@gmail.com  
+Email: oss@godothub.com  
 Website: https://godothub.com
