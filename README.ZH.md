@@ -1,7 +1,5 @@
 # Godot Hub
 
-先进的Godot Engine与游戏引擎社区
-
 ![Annual G-Star](https://cdn-static.gitcode.com/static/images/annual_gstar_org.svg)
 
 ## 社区介绍
