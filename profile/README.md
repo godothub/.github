@@ -1,6 +1,6 @@
 # Godot Hub
 
-![Annual G-Star](https://cdn-static.gitcode.com/static/images/annual_gstar_org_en.svg)
+![Annual G-Star](../assets/annual_gstar_org_en.svg)
 
 ## Introduction
 
