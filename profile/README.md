@@ -1,4 +1,4 @@
-# Godot Hub
+# GodotHub
 
 ![Annual G-Star](../assets/annual_gstar_org_en.svg)
 
